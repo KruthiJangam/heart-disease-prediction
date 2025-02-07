@@ -29,3 +29,11 @@ This project aims to predict heart disease using machine learning techniques. Th
 
 ## How to Run the Project
 1. Clone the repository:
+https://github.com/KruthiJangam/heart-disease-prediction 
+2.  Install dependencies:
+pip install -r requirements.txt
+3. Open and run `HeartDiseasePrediction.ipynb`
+
+---
+
+
