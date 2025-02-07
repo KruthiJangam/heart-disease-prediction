@@ -1,5 +1,5 @@
 # heart-disease-prediction
-# Heart Disease Prediction
+
 
 ## Overview
 This project aims to predict heart disease using machine learning techniques. The dataset contains patient information such as age, cholesterol levels, blood pressure, and other health factors.
